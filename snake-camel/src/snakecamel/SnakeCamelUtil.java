@@ -42,4 +42,5 @@ public class SnakeCamelUtil {
 		String rest = s.substring(1);
 		return lowerFirst + rest;
 	}
+
 }
